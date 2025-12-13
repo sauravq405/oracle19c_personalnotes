@@ -42,10 +42,3 @@ This is **not** meant to replace official Oracle documentation.
 It exists to make Oracle usable without unnecessary friction.
 
 ---
-
-If you want, next we can:
-
-* Refine the README to be more “public-facing”
-* Add a logical learning order section
-* Add a troubleshooting index
-* Normalize file naming even further
