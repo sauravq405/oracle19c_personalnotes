@@ -12,7 +12,7 @@ sqlplus/
 ├── format_sport.sql
 ├── format_team.sql
 └── format_player_team.sql
-
+```
 
 Run manually when needed:
 
