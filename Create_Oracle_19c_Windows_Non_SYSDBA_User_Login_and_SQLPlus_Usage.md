@@ -156,6 +156,7 @@ To avoid retyping formatting commands:
 
 2. Add the following content:
 
+```sql
 SET LINESIZE 200
 SET PAGESIZE 50
 SET TRIMSPOOL ON
@@ -173,18 +174,19 @@ COLUMN debut_year    FORMAT 9999           HEADING DEBUT
 COLUMN is_active     FORMAT A3            HEADING ACT
 COLUMN date_of_birth FORMAT A12           HEADING DOB
 
--- SPORT table column formatting
-COLUMN sport_id   FORMAT 9999    HEADING SPORT_ID
-COLUMN sport_name FORMAT A15     HEADING SPORT_NAME
+-- SPORT table
+COLUMN sport_id   FORMAT 9999  HEADING SPORT_ID
+COLUMN sport_name FORMAT A15   HEADING SPORT_NAME
 
--- TEAM table column formatting
-COLUMN team_id   FORMAT 9999    HEADING TEAM_ID
-COLUMN team_name FORMAT A20     HEADING TEAM_NAME
-COLUMN country   FORMAT A15     HEADING COUNTRY
+-- TEAM table
+COLUMN team_id   FORMAT 9999  HEADING TEAM_ID
+COLUMN team_name FORMAT A20   HEADING TEAM_NAME
+COLUMN country   FORMAT A15   HEADING COUNTRY
 
--- PLAYER_TEAM table column formatting
+-- PLAYER_TEAM table
 COLUMN from_year FORMAT 9999  HEADING FROM_YEAR
 COLUMN to_year   FORMAT 9999  HEADING TO_YEAR
+```sql
 
 
 3. Place `login.sql` in:
