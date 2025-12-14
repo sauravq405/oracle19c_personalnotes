@@ -16,4 +16,4 @@ sqlplus/
 
 Run manually when needed:
 
-e.g: ```sql @format_sport``` 
+e.g: ```sql> @format_sport``` 
