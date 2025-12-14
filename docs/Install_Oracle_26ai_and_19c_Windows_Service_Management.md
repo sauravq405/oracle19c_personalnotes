@@ -230,11 +230,3 @@ ONE-LINE SUMMARY
 
 * **To turn OFF 19c:** Stop `OracleServiceORCL` and `OracleOraDB19Home1TNSListener`
 * **To turn ON 19c:** Start `OracleServiceORCL` and `OracleOraDB19Home1TNSListener`
-
-If you want, I can also give you:
-
-* exact `net stop` / `net start` commands in the correct order, or
-* a quick sanity checklist to confirm which database you’re connected to before running queries
-
-* Create a **19c vs 26ai comparison cheat sheet**
-* Or trim this into a **one-page quick install checklist**
