@@ -186,7 +186,7 @@ COLUMN country   FORMAT A15   HEADING COUNTRY
 -- PLAYER_TEAM table
 COLUMN from_year FORMAT 9999  HEADING FROM_YEAR
 COLUMN to_year   FORMAT 9999  HEADING TO_YEAR
-```sql
+```
 
 
 3. Place `login.sql` in:
