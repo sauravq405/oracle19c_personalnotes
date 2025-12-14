@@ -14,6 +14,9 @@ This repository is a practical runbook, built from real setup, troubleshooting, 
 
 ## Documents overview
 
+* **Oracle_19c_Beginners_Installation_and_SQL_Developer_Guide.md**  
+  Complete beginner guide to installing Oracle Database 19c on Windows, verifying installation with SQL*Plus, and performing basic operations using SQL Developer.
+
 * **Oracle_19c_Windows_Health_Check_and_SYSDBA_Login.md**
   Verifying Oracle services, listener status, and logging in as SYSDBA on Windows.
 
