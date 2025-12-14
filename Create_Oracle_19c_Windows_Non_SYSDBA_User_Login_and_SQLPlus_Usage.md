@@ -156,7 +156,7 @@ To avoid retyping formatting commands:
 
 2. Add the following content:
 
-SET LINESIZE 200
+`SET LINESIZE 200
 SET PAGESIZE 50
 SET TRIMSPOOL ON
 SET TAB OFF
@@ -186,7 +186,7 @@ COLUMN country   FORMAT A15     HEADING "COUNTRY"
 COLUMN player_id FORMAT 9999  HEADING "PLAYER"
 COLUMN team_id   FORMAT 9999  HEADING "TEAM"
 COLUMN from_year FORMAT 9999  HEADING "FROM"
-COLUMN to_year   FORMAT 9999  HEADING "TO"
+COLUMN to_year   FORMAT 9999  HEADING "TO"`
 
 3. Place `login.sql` in:
 
