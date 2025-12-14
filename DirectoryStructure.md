@@ -5,13 +5,14 @@ Your working directory or
 
 %ORACLE_HOME%\sqlplus\admin
 
-
+```text
 sqlplus/
 ├── login.sql
 ├── format_player.sql        (optional split later)
 ├── format_sport.sql
 ├── format_team.sql
 └── format_player_team.sql
+
 
 Run manually when needed:
 
