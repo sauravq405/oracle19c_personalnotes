@@ -5,7 +5,7 @@ This repository is a practical runbook, built from real setup, troubleshooting, 
 
 ## What this repository contains
 
-* Windows-specific Oracle 19c service checks and startup validation
+* Windows-specific Oracle 19c service checks and startup validation 
 * SYSDBA login and database health verification
 * Non-SYSDBA user login via SQL*Plus (command prompt)
 * Manual Oracle SQL Developer connection setup
