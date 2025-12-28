@@ -182,13 +182,3 @@ Treat disk readiness as a first-class dependency, not an assumption.
 This approach is simple, reproducible, and production-safe for developer machines.
 
 ```
-
----
-
-If you want next:
-- A **PowerShell script** that enforces delayed start automatically
-- A **rollback section**
-- Or a **19c → 26ai migration checklist**
-
-Just tell me.
-```
