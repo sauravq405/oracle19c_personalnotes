@@ -180,5 +180,3 @@ If Oracle data lives outside `C:\`, **service timing matters more than configura
 Treat disk readiness as a first-class dependency, not an assumption.
 
 This approach is simple, reproducible, and production-safe for developer machines.
-
-```
